@@ -1,0 +1,1 @@
+{"_id":"SG743","flightName":"Spice Jet","flightAmount":{"$numberDouble":"7500.43"},"flightClass":"Economy","updatedDate":"2019-12-08 01:26:51","updatedBy":"Flight Service","_class":"com.flight.model.FlightModel"}
